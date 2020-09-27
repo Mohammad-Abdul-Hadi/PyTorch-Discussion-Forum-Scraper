@@ -1,6 +1,6 @@
 # PyTorch-Discussion-Forum-Scraper
-Create a data-set from discuss.pytorch.org
-Topics from the following categories are fetched:
+Create a data-set from discuss.pytorch.org\\
+Topics from the following categories are fetched:\\
 'uncategorized'
 'vision'
 'autograd'
